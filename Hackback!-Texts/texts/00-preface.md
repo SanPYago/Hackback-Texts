@@ -17,6 +17,5 @@ This project is intended for historical, political, and cybersecurity reading an
 ## Reading order
 
 1. [Hackback - A DIY GUIDE II](01-hackback-a-diy-guide-ii.md)
-2. [Hackback - A DIY GUIDE 1](02-hackback-a-diy-guide-1.md)
-3. [Hack Back — A DIY Guide (Hacking Team)](03-hack-back-a-diy-guide-hacking-team.md)
-4. [Hack Back](04-hack-back.md)
+2. [Hackback - A DIY GUIDE 1 — Hacking Team](02-hackback-a-diy-guide-1.md)
+3. [Hack Back](04-hack-back.md)

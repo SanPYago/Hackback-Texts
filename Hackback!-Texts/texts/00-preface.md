@@ -1,7 +1,7 @@
 # Hackback!-Texts
 
 <p align="center">
-  <img src="../assets/cover.jpg" width="420">
+  <img src="../assets/cover.jpg" width="520">
 </p>
 
 ## A curated reading edition of texts by Phineas Fisher
